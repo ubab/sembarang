@@ -12,4 +12,4 @@ mysql.query(sql,function(err,rows,fileds){
 		console.log('hasil query ='+ rows);
 	else
 		consoel.log('error '+ err);
-})
+});
